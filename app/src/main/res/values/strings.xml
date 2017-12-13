@@ -27,7 +27,7 @@
     <!-- PerAppProxyActivity -->
     <string name="msg_dialog_progress">Loading</string>
     <string name="menu_item_select_all">Select all</string>
-    
+
 
     <!-- Preferences -->
     <string name="title_settings">Settings</string>
